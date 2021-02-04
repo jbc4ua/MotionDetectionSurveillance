@@ -1,0 +1,20 @@
+Problem statement:
+What “problem” does your project fix?
+What if you wanted/needed your own, easy to use, motion-detecting CCTV.
+Who will benefit from your work and why?
+People who need to monitor places/things.
+Background:
+Why are you attempting this project?
+I already possess multiple components that the projecct will require. Also, I want to do it cause I think it would be cool and an educational experience.
+What does an outsider need to know in order to understand your project and understand why it is important?
+How surveillance cameras work, motion detection... the user interface should be pretty easy to use/intuitive.
+Methodology:
+How will you implement your project?
+I will fabricate a new enclosure for a raspberry pi + camera, code software to connect my raspi4 & a raspi zero (the zero collects and sends the camera feed to the raspi4)
+How will you achieve your desired outcome?
+Good planning and staying on schedule.
+Desired outcome:
+What would constitute a “successful” project?
+THe RPi4 successfully recieves camera feed transmitted from raspi0 wirelessly & motion detection software works.
+What do you hope to achieve?
+Have my own portable CCTV.
