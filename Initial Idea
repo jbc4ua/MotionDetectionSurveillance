@@ -10,9 +10,9 @@ What does an outsider need to know in order to understand your project and under
 How surveillance cameras work, motion detection... the user interface should be pretty minimal, easy to use/intuitive.
 Methodology:
 How will you implement your project?
-I will fabricate a enclosure for a raspberry pi + camera, implement software to connect my raspi4 & a raspi zero (the zero collects and sends the camera feed to the raspi4).
+I will fabricate a enclosure for a raspberry pi + camera, implement software to connect my raspi4 & a raspi zero via wifi adaptor (the zero collects and sends the camera feed to the raspi4).
 How will you achieve your desired outcome?
-Good planning and staying on schedule.
+Good planning and staying on schedule. Making sure all my components are fully functional.
 Desired outcome:
 What would constitute a “successful” project?
 The RPi4 successfully recieves camera feed transmitted from raspi0 wirelessly & motion detection software works.
