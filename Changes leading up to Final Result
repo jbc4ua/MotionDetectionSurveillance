@@ -1,0 +1,10 @@
+Description of the project outcome:
+Over the course of the last couple months of the project, I made a few changes to my desired outcome for Third Eye Surveillance. 
+The biggest change was/is that the raspberry pi 4 does not serve as the place to view the surveillance camera feed. I decided to do this for a number of reasons;
+      Implementing the Motion software allows RPi Zero W camera to work perfectly well as an IP camera & IP cameras are not only super easy to access, 
+      but they can also be accessed by as many devices (with web browsers) as a person could fit on a single wifi network.
+      The RPi 4 with the touchscreen remains an important part in this surveillance project as it is still the device used to configure and 
+      control the Motion software within the headless RPI Zero W.
+      Using the Pi Zero W w/ Motionc as an IP camera allowed me to properly create a system that is wireless, which was a goal of mine from the start.
+      
+I am very happy with the outcome of this project, especially since I decided to scrap the idea of using only the Raspberry Pi 4 for accessing the surveillance feed.
